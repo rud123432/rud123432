@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Name: Emmanuel D. 
+Email: erdawah@my.waketech.edu
+This repository is to learn and get familiar with GitHub
+To clone this repository, I have installed GitHub desktop, logged into my account, I was able to clone it from there. 
